@@ -1,0 +1,2 @@
+|InjectionID         |StudentID           |Vaccine Name        |firstPlace          |date1st             |secondPlace         |date2st             |
+|2                   |SE150001            |Spikevax            |1                   |01-01-2022          |2                   |02-02-2022          |
